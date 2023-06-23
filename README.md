@@ -1,5 +1,5 @@
 # Analysis-of-KDD-Cups-1999-Dataset
-
+![Alt text](C:\Users\ASUS\Pictures\Screenshots\Screenshot (265).png)
 This repository contains a project that focuses on analyzing the KDD Cup 1999 dataset using a pipelining approach. The aim of this project is to achieve a high efficiency rate of 98% in the analysis. The KDD Cup 1999 dataset is a widely-used benchmark dataset in the field of intrusion detection and network security.
 
 ### Dataset Description
@@ -29,10 +29,11 @@ After running the analysis pipeline, the trained model's performance and efficie
 We would like to acknowledge the creators of the KDD Cup 1999 dataset for providing this valuable resource for research and analysis.
 
 ### References
-KDD Cup 1999 Dataset
-Scikit-learn Documentation
-Pandas Documentation
-NumPy Documentation
+<a href="https://www.kaggle.com/datasets/galaxyh/kdd-cup-1999-data"> KDD Cup 1999 Dataset </a>
+<a href="https://scikit-learn.org/stable/"> Scikit-learn Documentation </a>
+<a href="https://pandas.pydata.org/docs/"> Pandas Documentation </a>
+<a href="https://numpy.org/doc/stable/"> NumPy Documentation </a>
+<a href="https://matplotlib.org/stable/index.html"> Matplotlib Documentation </a>
 
 Feel free to explore the code and experiment with different techniques to achieve even better efficiency in the analysis of the KDD Cup 1999 dataset using pipelining. Happy analyzing!
 
