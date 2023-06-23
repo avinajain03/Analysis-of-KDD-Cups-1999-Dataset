@@ -29,11 +29,11 @@ After running the analysis pipeline, the trained model's performance and efficie
 We would like to acknowledge the creators of the KDD Cup 1999 dataset for providing this valuable resource for research and analysis.
 
 ### References
-<a href="https://www.kaggle.com/datasets/galaxyh/kdd-cup-1999-data"> KDD Cup 1999 Dataset </a>
-<a href="https://scikit-learn.org/stable/"> Scikit-learn Documentation </a>
-<a href="https://pandas.pydata.org/docs/"> Pandas Documentation </a>
-<a href="https://numpy.org/doc/stable/"> NumPy Documentation </a>
-<a href="https://matplotlib.org/stable/index.html"> Matplotlib Documentation </a>
+1. <a href="https://www.kaggle.com/datasets/galaxyh/kdd-cup-1999-data"> KDD Cup 1999 Dataset </a> </n>
+2. <a href="https://scikit-learn.org/stable/"> Scikit-learn Documentation </a> </n>
+3. <a href="https://pandas.pydata.org/docs/"> Pandas Documentation </a> </n>
+4. <a href="https://numpy.org/doc/stable/"> NumPy Documentation </a> </n>
+5. <a href="https://matplotlib.org/stable/index.html"> Matplotlib Documentation </a> </n>
 
 Feel free to explore the code and experiment with different techniques to achieve even better efficiency in the analysis of the KDD Cup 1999 dataset using pipelining. Happy analyzing!
 
