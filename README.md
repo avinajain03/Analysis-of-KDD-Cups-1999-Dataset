@@ -1,3 +1,6 @@
+
+![kdd cup](https://github.com/avinajain03/Analysis-of-KDD-Cups-1999-Dataset/assets/125721987/85e3b9ae-6a08-48c2-a268-547cf6277d85)
+
 # Analysis-of-KDD-Cup-1999-Dataset
 
 This repository contains a project that focuses on analyzing the KDD Cup 1999 dataset using a pipelining approach. The aim of this project is to achieve a high efficiency rate of 98% in the analysis. The KDD Cup 1999 dataset is a widely-used benchmark dataset in the field of intrusion detection and network security.
