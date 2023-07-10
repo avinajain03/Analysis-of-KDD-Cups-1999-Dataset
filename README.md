@@ -21,9 +21,7 @@ The goal of this project is to develop a pipelining approach for analyzing the K
 
 4. Model Evaluation: The trained model is evaluated using the testing set of the KDD Cup 1999 dataset. Evaluation metrics like accuracy, precision, recall, and F1 score will be calculated to assess the model's performance.
 
-5. Hyperparameter Tuning: This stage involves optimizing the model's hyperparameters to further improve its performance. Techniques like grid search or random search can be applied to find the best combination of hyperparameters.
-
-6. Efficiency Enhancement: Additional techniques will be applied to enhance the efficiency of the analysis. This may include parallel processing, feature engineering, or utilizing specialized hardware.
+5. Efficiency Enhancement: Additional techniques will be applied to enhance the efficiency of the analysis. This may include parallel processing, feature engineering, or utilizing specialized hardware.
 
 ### Results and Discussion
 After running the analysis pipeline, the trained model's performance and efficiency will be displayed. The achieved efficiency rate will be 98%, indicating a high level of accuracy in predicting network connections as normal or attacks. The evaluation metrics such as accuracy, precision, recall, and F1 score will also be provided.
